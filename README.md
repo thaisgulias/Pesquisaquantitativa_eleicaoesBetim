@@ -19,7 +19,7 @@ Apoio Político e Partidário: Análise do apoio recebido pelos partidos políti
 Comunicação na Campanha Eleitoral: Identificação dos principais canais de comunicação utilizados pelos candidatos durante a campanha eleitoral.
 
 Resultados Esperados:
-Esperamos que esta pesquisa e o painel interativo desenvolvido no Power BI possam fornecer uma visão abrangente e aprofundada do contexto político em Betim durante as eleições de 2023. Os resultados podem ser úteis para os eleitores, os candidatos e as instituições políticas, contribuindo para uma melhor compreensão do cenário eleitoral e o fortalecimento da democracia na cidade.
+Esperamos que esta pesquisa e o painel interativo desenvolvido no Power BI possam fornecer uma visão abrangente e aprofundada do contexto político em Betim durante o ano de 2023. Os resultados podem ser úteis para os eleitores, os candidatos e as instituições políticas, contribuindo para uma melhor compreensão do cenário eleitoral e o fortalecimento da democracia na cidade.
 
 ![image](https://github.com/thaisgulias/Pesquisaquantitativa_eleicaoesBetim/assets/122481212/6ce9695b-a362-48db-9c9b-cd66babb0b7b)
 
