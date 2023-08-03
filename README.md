@@ -7,7 +7,7 @@ O objetivo principal desta pesquisa é fornecer uma análise detalhada e objetiv
 Metodologia:
 A pesquisa foi conduzida através de um questionário estruturado, aplicado a uma amostra representativa de eleitores de diferentes faixas etárias, gêneros e regiões da cidade. As respostas foram coletadas e compiladas em uma base de dados, que foi analisada usando a plataforma Power BI.
 
-nálise e Visualização:
+Análise e Visualização:
 A análise dos dados foi realizada utilizando o Power BI, o que possibilitou a criação de um painel interativo com gráficos e tabelas que permitem a exploração detalhada dos resultados. Os principais tópicos abordados no painel incluem:
 
 Conhecimento dos Eleitores sobre os Representantes: Avaliação do conhecimento dos eleitores sobre os candidatos a cargos eletivos.
